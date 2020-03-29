@@ -4,4 +4,5 @@ The character includes our Hero and the sinister Goblin that aims at deducing ou
 But as a reminder to stay away from him.Else things get worse.
 Along with some exciting music and bullet firing, help our Hero win the game.
 Clone or Download the file and try it.
+complete_game.py is the entire game.
 Thanks to Tech with Tim - Youtube Channel, to help me learn Pygame.
